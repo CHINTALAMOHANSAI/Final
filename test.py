@@ -4,3 +4,4 @@ for i in range(1,10):
     print("Good morning")
 
 
+print("test is completed")
